@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer who loves bu
 - 🌱 Learning advanced **Django patterns** and **modern frontend frameworks**
 - 👯 Open to collaborate on **web applications** and **open-source projects**
 - 💬 Ask me about **Python, PHP, Django, and full-stack development**
-- 📫 How to reach me: **[Your Email]** | **[Your LinkedIn]**
+- 📫 How to reach me: **monaparadeep@gmail.com** | **www.linkedin.com/in/deepmonapara**
 - ⚡ Fun fact: I built a sneaker e-commerce platform because I'm passionate about both tech and sneakers! 👟
 
 ## 🛠️ Technologies & Tools
@@ -60,10 +60,6 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer who loves bu
 ![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepmonapara9&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepmonapara9&layout=compact&theme=radical)
-
-## 🎵 Currently Playing
-
-[![Spotify](https://github-readme-spotify-now-playing.vercel.app/api/spotify-playing)](https://github.com/deepmonapara9)
 
 ## 🤝 Let's Connect!
 
