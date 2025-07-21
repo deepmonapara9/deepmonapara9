@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Deep Monapara
 
-Welcome to my GitHub profile! I'm a passionate full-stack developer who loves building practical solutions that make a difference.
+Welcome to my GitHub profile! I'm a passionate developer and automation enthusiast who loves building practical solutions that make a difference.
 
 ## 🚀 About Me
 
@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer who loves bu
 - 👯 Open to collaborate on **web applications** and **open-source projects**
 - 💬 Ask me about **Python, PHP, Django, automation workflows, and full-stack development**
 - 📫 **monaparadeep@gmail.com** | **linkedin.com/in/deepmonapara**
-- ⚡ Fun fact: I built a sneaker e-commerce platform because I'm passionate about both tech and sneakers! 👟
+- ⚡ Fun fact: I automate repetitive tasks so I can focus on building cool stuff! 🤖
 
 ## 🛠️ Technologies & Tools
 
@@ -31,31 +31,6 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer who loves bu
 ### Databases & Tools
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
-
-## 🎯 Featured Projects
-
-### 🔥 [SNEAKSphere](https://github.com/deepmonapara9/sneakers-website-w-admin-panel)
-**Your Gateway to Sneaker Heaven** 👟
-- Full-stack e-commerce platform for sneaker enthusiasts
-- Built with **PHP** and includes comprehensive admin panel
-- Features: Product catalog, user management, order processing
-
-### 🏗️ [SaaS Foundation](https://github.com/deepmonapara9/SaaS-Foundation)
-**Modern SaaS Application Template**
-- Complete Django-based SaaS starter kit
-- **Tech Stack**: Django + TailwindCSS + HTMX + PostgreSQL + Stripe
-- Features: User authentication, payment processing, deployment-ready
-
-### 💉 [Corona Vaccine Registration](https://github.com/deepmonapara9/corona-vaccine-registration)
-**Healthcare Registration System**
-- CSS-focused frontend for vaccine registration
-- Responsive design for better user accessibility
-- Contributing to public health initiatives through technology
-
-### 📚 [StudyBud](https://github.com/deepmonapara9/StudyBud)
-**Educational Platform**
-- HTML-based learning platform
-- Focus on user-friendly educational experiences
 
 ## 📊 GitHub Stats
 
