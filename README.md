@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer who loves bu
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **SaaS applications** and **e-commerce solutions**
-- 🌱 Learning advanced **Django patterns** and **modern frontend frameworks**
+- 🔭 Currently working on **SaaS applications**, **e-commerce solutions**, and **automation workflows**
+- 🌱 Learning advanced **Django patterns**, **modern frontend frameworks**, and **n8n automation**
 - 👯 Open to collaborate on **web applications** and **open-source projects**
-- 💬 Ask me about **Python, PHP, Django, and full-stack development**
-- 📫 How to reach me: **monaparadeep@gmail.com** | **www.linkedin.com/in/deepmonapara**
+- 💬 Ask me about **Python, PHP, Django, automation workflows, and full-stack development**
+- 📫 **monaparadeep@gmail.com** | **linkedin.com/in/deepmonapara**
 - ⚡ Fun fact: I built a sneaker e-commerce platform because I'm passionate about both tech and sneakers! 👟
 
 ## 🛠️ Technologies & Tools
@@ -25,9 +25,11 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer who loves bu
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![HTMX](https://img.shields.io/badge/-HTMX-3366CC?style=flat-square&logo=htmx&logoColor=white)
 
+### Automation & Workflows
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
 ### Databases & Tools
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
 
 ## 🎯 Featured Projects
@@ -65,9 +67,9 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer who loves bu
 
 I'm always interested in collaborating on exciting projects or discussing new technologies. Feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepmonapara)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/MonaparaDeep)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:monaparadeep@gmail.com)
 
 ---
 
