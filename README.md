@@ -2,42 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate developer and automation enthusiast who loves building practical solutions that make a difference.
 
-## 🚀 About Me
-
-- 🔭 Currently working on **SaaS applications**, **e-commerce solutions**, and **automation workflows**
-- 🌱 Learning advanced **Django patterns**, **modern frontend frameworks**, and **n8n automation**
-- 👯 Open to collaborate on **web applications** and **open-source projects**
-- 💬 Ask me about **Python, PHP, Django, automation workflows, and full-stack development**
-- 📫 **monaparadeep@gmail.com** | **linkedin.com/in/deepmonapara**
-- ⚡ Fun fact: I automate repetitive tasks so I can focus on building cool stuff! 🤖
-
-## 🛠️ Technologies & Tools
-
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTMX](https://img.shields.io/badge/-HTMX-3366CC?style=flat-square&logo=htmx&logoColor=white)
-
-### Automation & Workflows
-![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
-### Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
-
-## 📊 GitHub Stats
-
-![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepmonapara9&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepmonapara9&layout=compact&theme=radical)
-
 ## 🤝 Let's Connect!
 
 I'm always interested in collaborating on exciting projects or discussing new technologies. Feel free to reach out!
