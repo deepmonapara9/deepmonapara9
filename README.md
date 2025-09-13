@@ -11,6 +11,16 @@ Welcome to my GitHub profile! I'm a passionate developer and automation enthusia
 - 📫 **monaparadeep@gmail.com** | **linkedin.com/in/deepmonapara**
 - ⚡ Fun fact: I automate repetitive tasks so I can focus on building cool stuff! 🤖
 
+## 🗂️ Repository Contents
+
+This repository showcases my personal profile and includes practical examples of my work:
+
+### HTML CSS Pro
+A complete responsive website example demonstrating modern web development skills:
+- **Technologies Used**: HTML5, CSS3, vanilla JavaScript
+- **Features**: Clean responsive design, navigation menu, sidebar with search functionality
+- **Purpose**: Showcases fundamental front-end development skills and clean code practices
+
 ## 🛠️ Technologies & Tools
 
 ### Languages
