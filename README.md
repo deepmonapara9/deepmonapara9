@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Deep Monapara!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Automation+Enthusiast;AI+%26+ML+Explorer;Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Automation+Enthusiast;AI+%26+ML+Explorer;" alt="Typing SVG" />
 
 <br/>
 
