@@ -83,6 +83,7 @@ print(developer.say_hello())
 ### 💳 Payment & APIs
 
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-25D366?style=for-the-badge&logo=rest&logoColor=white)
 
 </div>
 
