@@ -36,6 +36,16 @@ developer = DeepMonapara()
 print(developer.say_hello())
 ```
 
+## 🗂️ Repository Contents
+
+This repository showcases my personal profile and includes practical examples of my work:
+
+### HTML CSS Pro
+A complete responsive website example demonstrating modern web development skills:
+- **Technologies Used**: HTML5, CSS3, vanilla JavaScript
+- **Features**: Clean responsive design, navigation menu, sidebar with search functionality
+- **Purpose**: Showcases fundamental front-end development skills and clean code practices
+
 ## 🛠️ Technologies & Tools
 
 <div align="center">
