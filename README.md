@@ -23,7 +23,7 @@ Building scalable web applications, backend systems, and AI-powered tools.
 `PostgreSQL` `MongoDB` `MySQL` `Redis` `Docker` `AWS` `Supabase` `Neon`
 
 **AI & Tools**
-`OpenAI` `Gemini` `Ollama` `Stripe` `Git` `GitHub`
+`OpenAI` `Gemini` `Ollama` `Stripe` `Git` `GitHub` `Claude` `Razorpay` `Huggingface`
 
 ---
 
